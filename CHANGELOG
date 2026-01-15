@@ -1,0 +1,18 @@
+---
+
+## 📝 Changelog
+
+### [1.0.0] - 2026-01-15
+**The "Porches" Launch**
+- **Core Engine:** Completed the "Binary Pulse" random number generation logic.
+- **UI/UX:** Implemented the "Hacker Green" terminal aesthetic with high-contrast alerts.
+- **Audio:** Added dynamic frequency feedback (different tones for High/Low guesses).
+- **Branding:** Officially titled the project "The 100th Cipher of [Porches]."
+- **Optimization:** Integrated auto-centering title logic to fit standard 80-character displays.
+
+### [Roadmap] - Future Updates
+- [ ] **Hard Mode:** Expanding frequency range to 1-500.
+- [ ] **Lockout Timer:** Adding a countdown to increase pressure.
+- [ ] **Data Persistence:** Saving the lowest "Number of Attempts" as a High Score.
+
+                                               
